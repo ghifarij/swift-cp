@@ -33,19 +33,6 @@ I wanted to understand how competitive programming concepts like sorting, binary
 
 ---
 
-## 🎓 Learning Path
-
-I designed this repo so both **beginners** and **job-seekers** can follow along:
-
-1. Start with **fundamental topics**: arrays, binary search, recursion, sorting.
-2. Progress into **data structures**: stacks, queues, linked lists, trees, graphs.
-3. Explore **dynamic programming** and **divide & conquer** patterns.
-4. Solve curated LeetCode problems with clear solutions in Swift.
-
-By documenting everything, I’m not only learning but also building a reference library for anyone preparing for interviews.
-
----
-
 ## 💡 Why Swift?
 
 While most competitive programming resources use C++ or Python, I chose Swift because:
@@ -58,11 +45,11 @@ While most competitive programming resources use C++ or Python, I chose Swift be
 
 ## 🚀 How to Use This Repo
 
-- Browse topics in the `topics/` folder.
-- Read the **concept summaries** in each `README.md`.
-- Try solving the problem yourself on [LeetCode](https://leetcode.com/).
-- Check my Swift solution files for a reference answer.
-- Clone this repo to have your own **practice environment**.
+1. Pick a topic folder (e.g., `arrays/`).
+2. Read the theory summary in the folder (if available).
+3. Try solving the same problem on [LeetCode](https://leetcode.com/) or another platform.
+4. Check my `.swift` file to see how I solved it.
+5. Clone this repo to practice offline.
 
 ---
 

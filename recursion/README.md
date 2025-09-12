@@ -28,5 +28,6 @@ Two cases that could apply:
 | --------- | ---------------------------------- |
 | Fibonacci | [fibonacci.swift](fibonacci.swift) |
 | Factorial | [factorial.swift](factorial.swift) |
+| Merge Two Sorted List | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
 ---
