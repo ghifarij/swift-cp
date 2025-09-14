@@ -55,7 +55,7 @@ While most competitive programming resources use C++ or Python, I chose Swift be
 
 ## 🔮 Next Steps
 
-- Expand coverage of advanced algorithms (DP, backtracking, graph algorithms).
+- Expand coverage of advanced algorithms (Dynamic Programming, backtracking, graph algorithms).
 - Add more Swift templates for competitive programming.
 - Keep documenting solutions and topics consistently.
 
