@@ -37,5 +37,3 @@ Two cases that could apply:
 | Problem Name            | Platform | Link                                                                 |
 | ----------------------- | -------- | -------------------------------------------------------------------- |
 | Merge Two Sorted Lists  | LeetCode | [View Problem](https://leetcode.com/problems/merge-two-sorted-lists/) |
-
-__

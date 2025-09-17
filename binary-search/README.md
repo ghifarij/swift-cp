@@ -14,5 +14,3 @@ First step: **sort an array**.
 | Problem       | Swift Code File                          |
 | ------------- | ---------------------------------------- |
 | Binary Search | [binarySearch.swift](binarySearch.swift) |
-
----

@@ -70,5 +70,3 @@ This is primarily my personal learning journal, but if you’d like to:
 - Fix errors in documentation
 
 …feel free to **open a pull request or issue**!
-
----

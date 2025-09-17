@@ -57,5 +57,3 @@ Leverages recursion.
 | Problem Name            | Platform   | Link                                                                 |
 | ----------------------- | ---------- | -------------------------------------------------------------------- |
 | Insertion Sort – Part 1 | HackerRank | [View Problem](https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true) |
-
----
