@@ -28,6 +28,14 @@ Two cases that could apply:
 | --------- | ---------------------------------- |
 | Fibonacci | [fibonacci.swift](fibonacci.swift) |
 | Factorial | [factorial.swift](factorial.swift) |
-| Merge Two Sorted List | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| Merge Two Sorted List | [mergeTwoSortedList.swift](mergeTwoSortedList.swift) |
 
 ---
+
+## 📂 Problems
+
+| Problem Name            | Platform | Link                                                                 |
+| ----------------------- | -------- | -------------------------------------------------------------------- |
+| Merge Two Sorted Lists  | LeetCode | [View Problem](https://leetcode.com/problems/merge-two-sorted-lists/) |
+
+__

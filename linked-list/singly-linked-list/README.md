@@ -1,6 +1,6 @@
-# 🔗 Linked List (Singly Linked List)
+# 🔗 Singly-Linked List
 
-A **Linked List** is a linear data structure where elements (called nodes) are connected using **pointers**. Each node contains:
+A **Singly-Linked List** is a linear data structure where elements (called nodes) are connected using **pointers**. Each node contains:
 
 1. **Value** – data stored in the node
 2. **Reference (next)** – pointer to the next node
@@ -15,13 +15,13 @@ Here’s the basic structure of a singly linked list node:
 
 ```swift
 class ListNode {
-    var val: Int
-    var next: ListNode?
+var val: Int
+var next: ListNode?
 
-    init(_ val: Int) {
-        self.val = val
-        self.next = nil
-    }
+init(_ val: Int) {
+self.val = val
+self.next = nil
+}
 }
 ```
 
@@ -29,7 +29,7 @@ class ListNode {
 
 ## ⚡ Key Properties
 
-| Feature             | Linked List           | Array      |
+| Feature             | Singly-Linked List           | Array      |
 | ------------------- | --------------------- | ---------- |
 | Access by index     | O(n)                  | O(1)       |
 | Insert at beginning | O(1)                  | O(n)       |
@@ -92,7 +92,29 @@ Simply move `head` to `head.next`.
 
 ## 📌 Key Insights
 
-- Linked lists trade off **fast random access** for **efficient insertion/deletion**.
+- A **singly-linked list** has **one-way connections**.
 - Best for **dynamic data** where frequent changes are needed.
 - Commonly used in stacks, queues, adjacency lists, and memory management.
 - Must manage pointers carefully to avoid memory leaks or broken chains.
+
+## 🔗 References
+- [Singly-Linked Lists - CS50 Shorts](https://www.youtube.com/watch?v=zQI3FyWm144)
+- [LeetCode - Singly-Linked List](https://leetcode.com/explore/learn/card/linked-list/209/singly-linked-list/1287/)
+
+---
+
+## 📂 Solutions
+
+| Algorithm            | Swift Code File                                    |
+| -------------------- | -------------------------------------------------- |
+| Reverse Linked List  | [reverseLinkedList.swift](reverseLinkedList.swift) |
+| Linked List Cycle    | [linkedListCycle.swift](linkedListCycle.swift)     |
+
+---
+
+## 📂 Problems
+
+| Problem Name         | Platform | Link                                                                 |
+| -------------------- | -------- | -------------------------------------------------------------------- |
+| Reverse Linked List  | LeetCode | [View Problem](https://leetcode.com/problems/reverse-linked-list/description/) |
+| Linked List Cycle    | LeetCode | [View Problem](https://leetcode.com/problems/linked-list-cycle/description/) |

@@ -48,5 +48,14 @@ Leverages recursion.
 | Bubble Sort    | [bubbleSort.swift](bubbleSort.swift)       |
 | Selection Sort | [selectionSort.swift](selectionSort.swift) |
 | Merge Sort     | [mergeSort.swift](mergeSort.swift)         |
+| Insertion Sort | [insertionSort.swift](insertionSort.swift) |
+
+---
+
+## 📂 Problems
+
+| Problem Name            | Platform   | Link                                                                 |
+| ----------------------- | ---------- | -------------------------------------------------------------------- |
+| Insertion Sort – Part 1 | HackerRank | [View Problem](https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true) |
 
 ---
