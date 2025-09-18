@@ -15,13 +15,13 @@ Here’s the basic structure of a singly linked list node:
 
 ```swift
 class ListNode {
-var val: Int
-var next: ListNode?
-
-init(_ val: Int) {
-self.val = val
-self.next = nil
-}
+    var val: Int
+    var next: ListNode?
+    
+    init(_ val: Int) {
+        self.val = val
+        self.next = nil
+    }
 }
 ```
 
